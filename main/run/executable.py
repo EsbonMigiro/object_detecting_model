@@ -22,7 +22,7 @@ def setup_tensorflow():
 
     # clone_tensorflow_models()
 
-    # install_tensorflow_object_detection()
+    install_tensorflow_object_detection()
 
 
     # other_tensorflow_installer()
