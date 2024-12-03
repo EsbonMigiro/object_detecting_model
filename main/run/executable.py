@@ -22,7 +22,7 @@ def setup_tensorflow():
 
     # clone_tensorflow_models()
 
-    install_tensorflow_object_detection()
+    # install_tensorflow_object_detection()
 
 
     # other_tensorflow_installer()
@@ -35,7 +35,7 @@ def setup_tensorflow():
     # create_label_map()
 
     #---------------clone tf-record---
-    # generate_tf_records()
+    generate_tf_records()
 
     #------------4. Copy Model Config to Training Folder
     # copy_model_config_to_training_path()
@@ -44,7 +44,7 @@ def setup_tensorflow():
     # update_config_transfer_learning()
 
     #-------------------------- detect---------------
-    # detect()
+    # detect(image_name)
 
 
 
